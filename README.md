@@ -2,6 +2,8 @@
 
 Welcome to the ReportHub
 
+This repository is a centralized hub for various reports and documents. The reports cover a wide range of topics, including technology, finance, and more. Each report is stored in a separate markdown file, making it easy to navigate and access the information you need.
+
 ## Table of Contents
 
 - [Report Hub](#report-hub)
